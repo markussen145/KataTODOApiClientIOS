@@ -8,7 +8,7 @@ PlaygroundPage.current.needsIndefiniteExecution = true
 
 //: Create a TODOAPIClient instance.
 let apiClient = TODOAPIClient()
-
+print("running")
 //: Get all the task already created.
 apiClient.getAllTasks { result in
     print(result)

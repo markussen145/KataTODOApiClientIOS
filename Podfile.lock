@@ -21,7 +21,7 @@ DEPENDENCIES:
   - OHHTTPStubs/Swift
 
 SPEC REPOS:
-  trunk:
+  https://github.com/cocoapods/specs.git:
     - Nimble
     - OHHTTPStubs
 
@@ -36,10 +36,10 @@ CHECKOUT OPTIONS:
     :git: https://github.com/Karumi/BothamNetworking.git
 
 SPEC CHECKSUMS:
-  BothamNetworking: 802c0d82586f4fa6b69d4ef05edf2a8faabd4776
+  BothamNetworking: d784de3b09324a02a7dc464c0fc35b8de160acb1
   Nimble: 18d5360282923225d62b09d781f63abc1a0111fc
   OHHTTPStubs: 9cbce6364bec557cc3439aa6bb7514670d780881
 
 PODFILE CHECKSUM: 48d67c0858a243671ee04f3a296b85396943fcef
 
-COCOAPODS: 1.8.1
+COCOAPODS: 1.6.1
